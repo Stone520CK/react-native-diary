@@ -1,4 +1,4 @@
-
+http://bbs.reactnative.cn/topic/5222/仿照卡片日记-react-native-app
 
 #### react-native-diary
 
